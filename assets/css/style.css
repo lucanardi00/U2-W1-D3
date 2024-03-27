@@ -1,0 +1,33 @@
+.navbar {
+  display: inline-flex;
+  background-color: #fef7e2;
+  height: 100vh;
+}
+
+.navbar ul {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 1rem;
+  width: 150px;
+  font-weight: 700;
+}
+
+.navBtn {
+  background-color: #ffdf7f;
+  color: #7a2b0a;
+  border: none;
+  border-radius: 20px;
+  padding: 1rem;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: 0.8em;
+}
+
+.navBtn img {
+  width: 30%;
+  display: flex;
+}
+
+h1 {
+}
